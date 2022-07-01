@@ -62,7 +62,7 @@ Add FFmpeg to PATH environment variable
 > pkg install wget
 > pkg install imagemagick -y
 > git clone https://github.com/alvyn-vengeance/Alvyn-botz-Md
-> cd Gojo-Satoru
+> cd Alvyn-botz-Md
 > npm install
 ```
 </details>
@@ -123,8 +123,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/62859193578139"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://linktr.ee/vynutzxx22"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/62859193578139"><img src="https://img.shields.io/badge/Contact Alvyn-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://linktr.ee/vynutzxx22"><img src="https://img.shields.io/badge/My Website-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 </details>
