@@ -15,10 +15,10 @@
 
 </br>
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/alvyn-vengeance"><img title="Author" src="https://img.shields.io/badge/Author-ALVYN-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md"><img title="Stars" src="https://img.shields.io/github/stars/alvyn-vengeance/Alvyn-botz-Md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alvyn-vengeance/Alvyn-botz-Md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/alvyn-vengeance/Alvyn-botz-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/alvyn-vengeance/Alvyn-botz-Md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
