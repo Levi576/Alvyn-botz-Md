@@ -103,7 +103,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |   Owner     |       ✅    |
 |   Islami     |       ✅     |
 |   Downloader     |       ✅     |
-|   Webzone     |       ✅[      |
+|   Webzone     |       ✅      |
 |   Searching     |       ✅      |
 |   Textpro     |       ✅      |
 |   Ephoto     |       ✅     |
