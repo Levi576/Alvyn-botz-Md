@@ -63,7 +63,9 @@ Add FFmpeg to PATH environment variable
 > pkg install imagemagick -y
 > git clone https://github.com/alvyn-vengeance/Alvyn-botz-Md
 > cd Alvyn-botz-Md
-> npm install
+> npm install yarn
+> yarn
+> npm start
 ```
 </details>
 
