@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['62859193578139']
-global.premium = ['62859193578139']
-global.ownernomer = '62859193578139'
-global.ownername = 'ｖｙｎｕｔｚｘｘ２２'
-global.botname = '𝐀𝐋𝐕𝐘𝐍-𝐁𝐎𝐓𝐙'
-global.footer = '© ｖｙｎｕｔｚｘｘ２２.'
+global.owner = ['+6285172446692']
+global.premium = ['+6285172446692']
+global.ownernomer = '+6285172446692'
+global.ownername = 'levi'
+global.botname = '𝐒𝐀𝐃𝐁𝐎𝐓-𝐌𝐃'
+global.footer = '© levi'
 global.ig = 'https://instagram.com/vynutzxx22'
-global.region = 'Deli Serdang, Sumatera Utara'
-global.sc = 'https://linktr.ee/vynutzxx22'
-global.myweb = 'https://instagram.com/vynutzxx22'
-global.packname = '𝐀𝐋𝐕𝐘𝐍-𝐁𝐎𝐓𝐙'
-global.author = 'ｖｙｎｕｔｚｘｘ２２'
+global.region = 'berau, Kalimantan timur'
+global.sc = 'https://github.com/alvyn-vengeance/Alvyn-botz-Md'
+global.myweb = 'https://chat.whatsapp.com/EvbHEi6YbSv7p97mJLB59B'
+global.packname = '𝐒𝐀𝐃𝐁𝐎𝐓-𝐌𝐃'
+global.author = 'levi'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '❏'
@@ -41,7 +41,7 @@ global.mess = {
     admin: '🙅 *Fitur Khusus Admin Group!*',
     botAdmin: '🙏 *Bot Harus Menjadi Admin Terlebih Dahulu!*',
     owner: '🙅 *Fitur Khusus Owner Bot*',
-    group: '👥 *Fitur hanya bisa digunakan didalam Grup, Silahkan Join Grup Bot : https://chat.whatsapp.com/C3mbk4fnGHW3LbEEtFgj8T*',
+    group: '👥 *Fitur hanya bisa digunakan didalam Grup, Silahkan Join Grup Bot : https://chat.whatsapp.com/EvbHEi6YbSv7p97mJLB59B*',
     private: '👤 *Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '❎ *Fitur Khusus Pengguna Nomor Bot*',
     wait: '⏳ *Loading...*',
